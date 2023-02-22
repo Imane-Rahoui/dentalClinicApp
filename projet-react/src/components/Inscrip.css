@@ -1,0 +1,31 @@
+.form-insc1 {
+  width: 40%;
+  position: relative;
+  left: 90px;
+  top: 310px;
+  margin-bottom: 50px;
+}
+.form-insc2 {
+  width: 40%;
+  position: relative;
+  left: 700px;
+  bottom: 275px;
+  margin-bottom: 50px;
+}
+#oblig {
+  color: rgba(201, 43, 43, 0.959);
+}
+#submit {
+  margin-top: 14px;
+}
+#submit:hover {
+  border: 1px solid #97bb5a;
+  background-color: #97bb5a;
+  color: #f5f5ef;
+}
+#smsg {
+  color: rgba(201, 43, 43, 0.959);
+}
+.b {
+  margin-top: 15px;
+}

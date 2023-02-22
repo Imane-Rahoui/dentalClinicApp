@@ -1,0 +1,96 @@
+.form-con {
+  width: 30%;
+  position: relative;
+  left: 160px;
+  top: 40px;
+  margin-bottom: 100px;
+}
+.auth {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  left: 800px;
+  top: 130px;
+}
+.auth {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  left: 800px;
+  top: 130px;
+}
+
+.sslider {
+  width: 700px;
+  height: 80%;
+  padding-top: 110px;
+  padding-left: 20px;
+  padding-bottom: 60px;
+}
+
+#CCKB {
+  margin: 50px;
+  position: absolute;
+  top: 50px;
+  right: 200px;
+  width: 80px;
+  height: 40px;
+}
+#barre {
+  background-color: #97bb5a;
+  height: 90px;
+}
+#CCKB {
+  margin: 50px;
+  position: absolute;
+  top: 50px;
+  right: 200px;
+  width: 80px;
+  height: 40px;
+}
+#labelCCKB {
+  margin-top: 30px;
+  font-size: 25px;
+  position: absolute;
+  top: 70px;
+  left: 250px;
+}
+#prenRdv {
+  position: relative;
+  bottom: 490px;
+  left: 350px;
+}
+#formRdv {
+  width: 40%;
+  position: relative;
+  bottom: 470px;
+  left: 730px;
+}
+.form-group {
+  margin-top: 10px;
+}
+#sub {
+  background-color: #97bb5a;
+  border: #97bb5a;
+  margin: 30px;
+}
+#sub:hover {
+  background-color: #c4d3ab;
+  border: #97bb5a;
+  margin: 30px;
+  color: black;
+}
+#rdvdtime {
+  width: 100%;
+  border-radius: 3px;
+  padding: 5px;
+  border: 1px solid rgba(199, 199, 199, 0.726);
+}
+#conn2 {
+  position: absolute;
+  top: 710px;
+  padding-top: 70px;
+  right: 0px;
+  width: 100%;
+  height: 100%;
+}

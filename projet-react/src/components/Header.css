@@ -1,0 +1,43 @@
+.logo {
+  height: 60px;
+  cursor: none;
+}
+#inscrip {
+  size: 80px;
+  position: relative;
+  left: 248px;
+  bottom: 12px;
+}
+#conn {
+  position: relative;
+  left: 208px;
+  bottom: 12px;
+}
+#horaire {
+  position: relative;
+  left: 166px;
+  bottom: 13px;
+}
+#emergency {
+  position: relative;
+  left: 124px;
+  bottom: 13px;
+}
+#services {
+  position: relative;
+  left: 73px;
+  bottom: 12px;
+}
+#home {
+  position: relative;
+  left: 30px;
+  bottom: 11px;
+}
+#home:hover,
+#services:hover,
+#emergency:hover,
+#horaire:hover,
+#conn:hover,
+#inscrip:hover {
+  color: #0a3d80;
+}
